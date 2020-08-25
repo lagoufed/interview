@@ -2,7 +2,7 @@
 name: 本次面试题
 about: 简单描述下本次面试后你的总结
 title: "我的面试题"
-labels: "documentation"
+labels: "interview"
 assignees: ""
 ---
 
