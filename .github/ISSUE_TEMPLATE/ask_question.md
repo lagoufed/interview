@@ -2,7 +2,7 @@
 name: 面试题描述
 about: 简单描述下你的面试题内容
 title: "我的面试题"
-labels: ""
+labels: "documentation"
 assignees: ""
 ---
 
